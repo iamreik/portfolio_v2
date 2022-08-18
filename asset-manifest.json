@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf0e4186.css",
+    "main.js": "/static/js/main.b68f2686.js",
+    "static/media/background.png": "/static/media/background.0baa7d5bf3e18250fe81.png",
+    "static/media/high-pass.png": "/static/media/high-pass.3fd2ad7617ca17eb14b9.png",
+    "static/media/ProximaNova-Thin.ttf": "/static/media/ProximaNova-Thin.5e83e6e77a83c0c10927.ttf",
+    "static/media/ProximaNova-Semibold.ttf": "/static/media/ProximaNova-Semibold.be42827ac88aca64dbf0.ttf",
+    "static/media/ProximaNova-Regular.ttf": "/static/media/ProximaNova-Regular.b078618b41b9b6629ea0.ttf",
+    "static/media/ProximaNova-Bold.ttf": "/static/media/ProximaNova-Bold.7722451a8c88b6100185.ttf",
+    "static/media/avatar.svg": "/static/media/avatar.f11ffd80c0eac9adc631.svg",
+    "static/media/blanchard.jpg": "/static/media/blanchard.181450ed112eaa04e439.jpg",
+    "static/media/profilePhoto.jpeg": "/static/media/profilePhoto.15147ef4d5c69341adc2.jpeg",
+    "static/media/postgresql.svg": "/static/media/postgresql.4a5bfc4e5b925f79ae9fa1fa71960582.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.a2d47d315b26e95460b8a9d2072354ae.svg",
+    "static/media/reactjs.svg": "/static/media/reactjs.600ae7707886ca06752f21936a264a26.svg",
+    "static/media/javascript.svg": "/static/media/javascript.7f8a211ef8b5cccc9d1f8f2948f2c34b.svg",
+    "static/media/html.svg": "/static/media/html.169bc94a8a2ffd8481d2ce2df324be84.svg",
+    "static/media/q.svg": "/static/media/q.b3b9710f3535a7afbb83.svg",
+    "static/media/css.svg": "/static/media/css.d96dc6c1972c117f47277f4c451edb21.svg",
+    "index.html": "/index.html",
+    "main.bf0e4186.css.map": "/static/css/main.bf0e4186.css.map",
+    "main.b68f2686.js.map": "/static/js/main.b68f2686.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf0e4186.css",
+    "static/js/main.b68f2686.js"
+  ]
+}
